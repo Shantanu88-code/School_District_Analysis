@@ -15,7 +15,18 @@ In initial analysis, we see average reading score is better than average math sc
 
 <img width="695" alt="District_analysis_PyCitySchools" src="https://user-images.githubusercontent.com/86980240/134455979-a32322e6-d146-4c3e-9c4e-a52b3d0a0132.png">
 
-After a second review, ie. after ommitting grade 9th students from our dataframe, we see overall passing percentage declines to 64.9% while other scores remain the same. 
+After a second review, ie. after ommitting grade 9th students from our dataframe, we see overall passing percentage slightly declines to 64.9% so as Maths and Reading scores. 
 
 <img width="709" alt="District_analysis_PyCity_challenge" src="https://user-images.githubusercontent.com/86980240/134456118-0cc492f6-2d9f-4794-b44c-fbf75e383d35.png">
+
+
+# How is the school summary affected?
+
+After modifications, we see that school summary is affected especially with Math, Reading and Overall percentage drastically declined. It did not affect the school budget and there were slight changes in average reading and math score.
+
+<img width="723" alt="Per_school_summary_PyCity" src="https://user-images.githubusercontent.com/86980240/134456624-5881edb2-9590-4ee6-93b3-0fd63de8e9dc.png">
+
+
+<img width="702" alt="Per_school_summary_challenge" src="https://user-images.githubusercontent.com/86980240/134456642-8dd31884-b04f-4816-8d52-49d49fdb1dc5.png">
+
 
