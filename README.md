@@ -22,7 +22,7 @@ After a second review, ie. after ommitting grade 9th students from our dataframe
 
 # How is the school summary affected?
 
-With including tampered data, the summary for Thomas High School looks impressive. After modifications, we see that school summary is affected especially with Math, Reading and Overall percentage drastically declined from 90%, 97%, 91% to 67%, 69% and 65% respectively. It did not affect the school budget and there were slight changes in average reading and math score.
+With including tampered data, the summary for Thomas High School looks impressive. After modifications, we see that school summary is affected especially with Math, Reading and Overall percentage drastically declined from 93%, 97% and 91% to 67%, 69% and 65% respectively. It did not affect the school budget and there were slight changes in average reading and math score.
 
 <img width="723" alt="Per_school_summary_PyCity" src="https://user-images.githubusercontent.com/86980240/134456624-5881edb2-9590-4ee6-93b3-0fd63de8e9dc.png">
 
