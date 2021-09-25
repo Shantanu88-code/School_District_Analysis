@@ -32,11 +32,7 @@ With including tampered data, the summary for Thomas High School looks impressiv
 
 # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Overall, it does not affect average scores in two subjects however, there is significant decline in passing percentages. It does not affect other schools' or graders' performances. Before, Thomas High School was placed second in school summary but afterwards, the school was placed at 8th position in Top schools table.
-
-
-<img width="759" alt="Top schools_challenge" src="https://user-images.githubusercontent.com/86980240/134460911-380092ca-537e-40ab-afe8-e28127b27995.png">
-
+Overall, it does not affect average scores in two subjects however, there is significant decline in passing percentages. It does not affect other schools' or graders' performances. 
 
 
 # How does replacing the ninth-grade scores affect the following:
