@@ -60,7 +60,7 @@ And after ommitting grade 9th, we see a decline in Math, Reading and Overall per
 
 # Scores by school size:
 
-We see changes in range (Medium (1000-2000) ) school size again in math, reading and overall percentage
+We see slight changes in range (Medium (1000-2000) ) school size again in math, reading and overall percentage
 
 <img width="566" alt="Size_pyCity_schools" src="https://user-images.githubusercontent.com/86980240/134458441-8ebcd06a-c7e6-46d3-be3e-cfc3ea30c44a.png">
 
@@ -72,7 +72,7 @@ We see changes in range (Medium (1000-2000) ) school size again in math, reading
 
 # Scores by school type:
 
-As it can be seen that tampering of data caused around 3% decline in math, reading and overall percentages in Charter schools 
+
 
 <img width="527" alt="Type_summary_PyCity_school" src="https://user-images.githubusercontent.com/86980240/134458546-214901d3-e21f-464a-8483-5dd0506c532e.png">
 
