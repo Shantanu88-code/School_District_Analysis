@@ -40,10 +40,11 @@ Overall, it does not affect average scores in two subjects however, there is sig
 
 The Math and Reading scores changed to NaN since we ommitted grade 9th students. It did not affect other graders' scores.
 
-<img width="324" alt="Math Scores_challenge" src="https://user-images.githubusercontent.com/86980240/134458039-e03756ba-e06d-4c6d-bfac-92886363d2b2.png">
+<img width="282" alt="math_scores" src="https://user-images.githubusercontent.com/86980240/134776440-ce0527b2-4884-4855-8a84-fcb9ea0a535c.png">
 
 
-<img width="346" alt="Reading_challenge" src="https://user-images.githubusercontent.com/86980240/134458050-d7749d8e-cfc9-459e-9d0a-78b996551c61.png">
+<img width="279" alt="reading_scores" src="https://user-images.githubusercontent.com/86980240/134776446-af889b0f-dad1-41ee-a782-ba813125394d.png">
+
 
 
 # Scores by school spending:
