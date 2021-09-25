@@ -83,6 +83,6 @@ We see slight changes in range (Medium (1000-2000) ) school size again in math, 
 
 # Summary: 
 
-Thomas High school's performance was good initially. But after ommitting few datas due to dishonesty, Thomas High school lost the math, reading and overall passing percentages. Charter schools' performances are far better than District schools. Modifications did not affect overall Charter school performances though. Also, with spending and size summaries, it can be seen that schools with small to medium sizes and with spending range of under $630 per student fared better than those of bigger sizes and spending ranges.
+Thomas High school's performance was good initially. But after ommitting few datas due to dishonesty, Thomas High school lost the math, reading and overall passing percentages. Charter schools' performances are far better than District schools. Modifications did not affect overall Charter school performances though. Also, with spending and size summaries, it can be seen that schools with small to medium sizes and with spending range of under $630 per student fared better than those of bigger sizes and spending ranges. It is not necessary that schools that spend more per student tend to be successful in terms of students' performances and passing.  
 
 
