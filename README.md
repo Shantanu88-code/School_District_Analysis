@@ -51,7 +51,7 @@ The Math and Reading scores changed to NaN since we ommitted grade 9th students.
 
 <img width="612" alt="Pycity_schools_spending_summary" src="https://user-images.githubusercontent.com/86980240/134458198-47f85748-fc5e-41c9-92d1-f90f543904bd.png">
 
-And after ommitting grade 9th, we see a decline in Math, Reading and Overall percentages in $630-$644 spending ranges.
+
 
 <img width="674" alt="spending_summ" src="https://user-images.githubusercontent.com/86980240/134776533-f03f117d-0c81-49fc-b2cc-84b470bb1a72.png">
 
