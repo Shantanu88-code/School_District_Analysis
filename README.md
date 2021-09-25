@@ -53,7 +53,8 @@ The Math and Reading scores changed to NaN since we ommitted grade 9th students.
 
 And after ommitting grade 9th, we see a decline in Math, Reading and Overall percentages in $630-$644 spending ranges.
 
-<img width="616" alt="Spending summary_challenge" src="https://user-images.githubusercontent.com/86980240/134460957-eb8a19dc-75a8-4eaf-bc3b-c5bb073b9600.png">
+<img width="674" alt="spending_summ" src="https://user-images.githubusercontent.com/86980240/134776533-f03f117d-0c81-49fc-b2cc-84b470bb1a72.png">
+
 
 
 
@@ -64,7 +65,8 @@ We see changes in range (Medium (1000-2000) ) school size again in math, reading
 <img width="566" alt="Size_pyCity_schools" src="https://user-images.githubusercontent.com/86980240/134458441-8ebcd06a-c7e6-46d3-be3e-cfc3ea30c44a.png">
 
 
-<img width="654" alt="Size_challenge" src="https://user-images.githubusercontent.com/86980240/134461207-63da67db-c001-4fef-8b9c-aad81ec53a35.png">
+<img width="617" alt="size_summ" src="https://user-images.githubusercontent.com/86980240/134776566-5f48e0f7-a509-49a3-8df3-a753279206f7.png">
+
 
 
 
@@ -75,11 +77,12 @@ As it can be seen that tampering of data caused around 3% decline in math, readi
 <img width="527" alt="Type_summary_PyCity_school" src="https://user-images.githubusercontent.com/86980240/134458546-214901d3-e21f-464a-8483-5dd0506c532e.png">
 
 
-<img width="604" alt="Type_challenge" src="https://user-images.githubusercontent.com/86980240/134461486-6131c152-868c-4919-b08d-441569520d94.png">
+<img width="585" alt="type_summ" src="https://user-images.githubusercontent.com/86980240/134776589-08921aa1-1cdd-4293-90ad-783c3bc82d1b.png">
+
 
 
 # Summary: 
 
-Thomas High school's performance was good initially. But after ommitting few datas due to dishonesty, Thomas High school lost the overall percentages, math and reading percentages. Charter schools' performances are far better than District schools. It did not affect overall Charter school performance though as there was around 3% decline in percentages. However, average scores were not affected may be because different school sizes. Also, with spending and size summaries, it can be seen that schools with small to medium sizes and with spending range of under $630 per student fared better than those of bigger sizes and spending ranges.
+Thomas High school's performance was good initially. But after ommitting few datas due to dishonesty, Thomas High school lost the math, reading and overall passing percentages. Charter schools' performances are far better than District schools. Modifications did not affect overall Charter school performances though. Also, with spending and size summaries, it can be seen that schools with small to medium sizes and with spending range of under $630 per student fared better than those of bigger sizes and spending ranges.
 
 
